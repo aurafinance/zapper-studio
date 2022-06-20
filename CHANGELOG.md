@@ -4,6 +4,18 @@
 
 [1]: https://www.npmjs.com/package/@zapper-fi/studio?activeTab=versions
 
+## [0.78.0](https://github.com/Zapper-fi/studio/compare/v0.77.0...v0.78.0) (2022-06-20)
+
+
+### Features
+
+* migrated sushiswap-bentobox to studio ([#685](https://github.com/Zapper-fi/studio/issues/685)) ([b3f2d3a](https://github.com/Zapper-fi/studio/commit/b3f2d3a1c5c523533842c5a5bedecaeced8c9362))
+
+
+### Bug Fixes
+
+* across label ([#690](https://github.com/Zapper-fi/studio/issues/690)) ([b6715d7](https://github.com/Zapper-fi/studio/commit/b6715d76f8115b94f2abed8bfcd9473dd6facfd4))
+
 ## [0.77.0](https://github.com/Zapper-fi/studio/compare/v0.76.2...v0.77.0) (2022-06-17)
 
 
